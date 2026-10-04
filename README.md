@@ -1,106 +1,140 @@
-# Projet WissemArt - Gestion des Achats
+# Projet WissemArt - Système de Gestion des Achats
 
-## Description
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ramichatti/ProjetWissemArt.git)
 
-WissemArt Achat est une application desktop developpee en Python/Tkinter pour la gestion des factures d'achats. Le projet integre egalement un workflow ETL (Talend) et un tableau de bord Power BI pour l'analyse des donnees d'achats.
+## À propos du projet
 
-## Structure du Projet
+**WissemArt Achat** est une application de bureau complète conçue pour la gestion et le suivi des factures d'achats de l'entreprise WissemArt. Le projet combine une interface utilisateur intuitive développée en Python/Tkinter, un processus ETL automatisé avec Talend, et un tableau de bord analytique Power BI pour un suivi efficace des achats.
+
+## Objectifs
+
+- Centraliser la gestion des factures d'achat
+- Suivre les achats par fournisseur, produit et catégorie
+- Automatiser le traitement et l'intégration des données
+- Fournir des analyses visuelles pour la prise de décision
+- Assurer la traçabilité complète des transactions d'achat
+
+## Architecture du Projet
 
 `
 WissemProject/
-+-- App/                        # Application Desktop (Tkinter)
-¦   +-- AppAchat.py            # Interface principale de l'application
-¦   +-- create_shortcut.vbs    # Script pour creer un raccourci sur le bureau
-¦   +-- START_HERE.bat         # Script d'installation/lancement
-¦   +-- WissemArt_Achat.bat    # Lancement direct de l'application
-¦   +-- LogoWissem.ico         # Icone de l'application
-+-- Data/                       # Donnees sources (CSV)
-¦   +-- EnteteAchat.csv        # En-tetes/factures d'achat
-¦   +-- LigneAchat.csv         # Lignes de detail des achats
-+-- PowerBI/                    # Dashboards BI
-¦   +-- DashboardAchats.pbix   # Tableau de bord Power BI
-+-- Capture/                    # Captures d'ecran (ETL, PowerBI, etc.)
-+-- README.md                   # Ce fichier
++-- App/                    # Application Desktop Tkinter
+¦   +-- AppAchat.py        # Application principale
+¦   +-- create_shortcut.vbs # Générateur de raccourci bureau
+¦   +-- START_HERE.bat    # Menu d'installation
+¦   +-- WissemArt_Achat.bat # Lanceur direct
+¦   +-- LogoWissem.ico    # Icône de l'application
+¦   +-- __pycache__/      # Fichiers compilés Python
++-- Data/                   # Données sources (format CSV)
+¦   +-- EnteteAchat.csv   # En-têtes des factures
+¦   +-- LigneAchat.csv    # Détails des lignes d'achat
++-- PowerBI/               # Rapports et tableaux de bord
+¦   +-- DashboardAchats.pbix # Tableau de bord Power BI
++-- Capture/               # Captures d'illustration
++-- README.md             # Documentation
 +-- .gitignore
 `
 
-## Fonctionnalites
+## Fonctionnalités Principales
 
-L'application de gestion des achats permet de :
+### Application Desktop
 
-- Gerer les factures d'achat : Creer, consulter, modifier et supprimer des factures
-- Gerer les lignes de facture : Ajouter des produits avec quantite, prix unitaire, etc.
-- Export/Import CSV : Stockage des donnees au format CSV (UTF-8-SIG avec separateur ;)
-- Interface moderne : UI/UX professionnelle developpee avec Tkinter/TTK
-- Validation des donnees : Controle des champs, calculs automatiques des montants
-- Multi-fournisseurs : Gestion des fournisseurs avec matricule fiscal et adresse
-- Modes de paiement : Especes, Cheque, Virement, Carte Bancaire
+- **Gestion des factures** : Création, consultation, modification et suppression des factures d'achat
+- **Gestion des lignes de facture** : Ajout de produits avec quantité, prix unitaire et calcul automatique du montant
+- **Sélection des fournisseurs** : Enregistrement du nom, matricule fiscal et adresse du fournisseur
+- **Modes de paiement** : Prise en charge d'Espèces, Chèque, Virement et Carte Bancaire
+- **Validation intelligente** : Contrôles de saisie et validation des données en temps réel
+- **Calcul automatique** : Calcul automatique des totaux et montants par ligne
+- **Interface moderne** : Design professionnel avec palettes de couleurs cohérentes et expérience utilisateur optimisée
+- **Sauvegarde CSV** : Stockage structuré des données au format CSV (UTF-8-SIG, séparateur point-virgule)
 
-## Technologies Utilisees
+## Stack Technique
 
-- Python 3.x - Langage de developpement
-- Tkinter/TTK - Interface graphique desktop
-- CSV - Stockage des donnees
-- Power BI - Analyse et visualisation des donnees
-- Talend - ETL (Extract, Transform, Load)
-- VBScript (.vbs) - Creation de raccourcis Windows
+| Composant | Technologie | Description |
+|---|---|---|
+| Application Desktop | Python 3.x + Tkinter/TTK | Interface graphique native Windows |
+| Stockage des données | CSV | Format simple et portable pour les données d'achat |
+| Business Intelligence | Power BI | Visualisation, analyse et tableaux de bord |
+| ETL | Talend | Extraction, Transformation et Chargement des données vers l'entrepôt |
+| Automatisation Windows | VBScript | Création automatique de raccourcis |
+| Scripts Batch | .BAT | Installation et lancement simplifiés |
 
-## Installation et Utilisation
+## Données
 
-### Prerequis
+### Fichier EnteteAchat.csv - En-têtes de factures
+| Colonne | Type | Description |
+|---|---|---|
+| num_facture | Texte | Numéro unique de facture (PK) |
+| date_achat | Date | Date de l'achat (YYYY-MM-DD) |
+| nom_fournisseur | Texte | Nom complet du fournisseur |
+| matricule_fiscal | Texte | Matricule fiscal du fournisseur |
+| adresse_fournisseur | Texte | Adresse du fournisseur |
+| mode_paiement | Texte | Mode de règlement |
+| total_achat | Décimal | Montant total TTC de la facture |
 
-- Python 3.x installe sur Windows
-- Tkinter (generalement inclus avec Python)
+### Fichier LigneAchat.csv - Lignes de détail
+| Colonne | Type | Description |
+|---|---|---|
+| num_facture | Texte | Clé étrangère vers l'en-tête de facture |
+| nom_produit | Texte | Désignation du produit |
+| reference | Texte | Référence unique du produit |
+| categorie | Texte | Catégorie du produit |
+| design | Texte | Désignation détaillée |
+| quantite | Numérique | Quantité achetée |
+| prix_unitaire | Décimal | Prix unitaire HT/TTC |
+| montant_ligne | Décimal | Montant calculé (quantité × prix unitaire) |
 
-### Lancement de l'application
+## Installation & Démarrage
 
-#### Option 1 : Via le script d'installation
-Double-cliquer sur App/START_HERE.bat
+### Prérequis
+- Windows 10/11
+- Python 3.8+ installé
+- Tkinter (inclus par défaut avec l'installation Python standard)
 
-#### Option 2 : Lancement direct
-Double-cliquer sur App/WissemArt_Achat.bat
+### Démarrage rapide
 
-#### Option 3 : Via ligne de commande
-`ash
-cd App
-python AppAchat.py
-`
+1. **Option A - Menu d'installation complet**
+   `atch
+   Double-cliquez sur : App/START_HERE.bat
+   `
+   Ce menu vous permet de créer un raccourci sur le bureau ou de lancer directement l'application.
 
-## Structure des Donnees
+2. **Option B - Lancement direct**
+   `atch
+   Double-cliquez sur : App/WissemArt_Achat.bat
+   `
 
-### EnteteAchat.csv
-| Champ | Description |
-|---|---|
-| num_facture | Numero unique de la facture |
-| date_achat | Date d'achat (format YYYY-MM-DD) |
-| nom_fournisseur | Nom du fournisseur |
-| matricule_fiscal | Matricule fiscal du fournisseur |
-| adresse_fournisseur | Adresse du fournisseur |
-| mode_paiement | Mode de paiement |
-| total_achat | Montant total de la facture |
+3. **Option C - Depuis la ligne de commande**
+   `ash
+   cd App
+   python AppAchat.py
+   `
 
-### LigneAchat.csv
-| Champ | Description |
-|---|---|
-| num_facture | Reference vers la facture |
-| nom_produit | Nom du produit |
-| reference | Reference du produit |
-| categorie | Categorie du produit |
-| design | Designation du produit |
-| quantite | Quantite |
-| prix_unitaire | Prix unitaire |
-| montant_ligne | Montant de la ligne (qte x PU) |
+## Workflow ETL & Business Intelligence
 
-## Architecture ETL & BI
+Le projet intègre un pipeline ETL complet développé sous Talend :
 
-Le projet integre un processus ETL implemente avec Talend alimentant un DWH et un tableau de bord Power BI (DashboardAchats.pbix).
+1. **Staging Area** - Import et contrôle qualité des fichiers CSV
+2. **Dimensions** - Création des dimensions DimProduit et DimFournisseur
+3. **Table de Faits** - Construction de la table de faits FactAchats
+4. **Data Warehouse (DWH)** - Modélisation en étoile pour optimiser les analyses
+5. **Power BI** - Restitution via le tableau de bord interactif DashboardAchats.pbix
+
+## Captures d'écran
+
+Les captures illustrant l'application, le processus ETL Talend et le tableau de bord Power BI sont disponibles dans le dossier Capture/.
+
+## Remarques
+
+- Les fichiers de données Data/ contiennent des données d'exemple à des fins de démonstration.
+- L'application est configurée pour fonctionner depuis C:\Users\ramic\Desktop\WissemProject\ par défaut.
+- Les fichiers .pyc dans __pycache__/ sont générés automatiquement lors de l'exécution.
 
 ## Auteur
 
-- Projet : WissemArt
-- Developpeur : Wissem
+**WissemArt** - Projet de gestion des achats développé par Wissem
 
 ## Licence
 
-Ce projet est a usage professionnel/interne.
+Ce projet est destiné à un usage professionnel et interne.
 
