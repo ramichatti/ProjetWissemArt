@@ -1,0 +1,407 @@
+﻿num_facture;nom_produit;reference;categorie;design;quantite;prix_unitaire;montant_ligne
+FAC1001;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;12;17.626;211.512
+FAC1001;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;2;2.941;5.882
+FAC1001;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;1;7.06;7.06
+FAC1001;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;4;154.656;618.624
+FAC1002;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;3;7.787;23.361
+FAC1002;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;6;2.892;17.352
+FAC1002;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;4;17.91;71.64
+FAC1002;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;6;195.388;1172.328
+FAC1002;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;7;48.862;342.034
+FAC1002;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;14;8.319;116.466
+FAC1003;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;11;2.79;30.69
+FAC1003;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;14;6.051;84.714
+FAC1003;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;4;38.598;154.392
+FAC1003;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;1;1.24;1.24
+FAC1003;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;13;143.102;1860.326
+FAC1004;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;14;24.765;346.71
+FAC1004;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;6;50.041;300.246
+FAC1005;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;3;33.14;99.42
+FAC1005;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;5;140.613;703.065
+FAC1006;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;6;17.512;105.072
+FAC1006;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;2;7.546;15.092
+FAC1007;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;4;24.349;97.396
+FAC1007;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;9;6.119;55.071
+FAC1007;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;10;426.274;4262.74
+FAC1007;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;10;18.154;181.54
+FAC1007;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;4;6.941;27.764
+FAC1008;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;13;2.874;37.362
+FAC1008;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;10;7.116;71.16
+FAC1009;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;11;6.106;67.166
+FAC1009;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;13;145.899;1896.687
+FAC1009;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;11;49.601;545.611
+FAC1009;Café 250g;CAF-250;Boisson;Café moulu 250g;5;9.806;49.03
+FAC1009;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;8;8.578;68.624
+FAC1009;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;12;416.255;4995.06
+FAC1010;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;13;37.905;492.765
+FAC1010;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;15;7.266;108.99
+FAC1010;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;6;31.042;186.252
+FAC1010;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;2;24.842;49.684
+FAC1011;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;2;18.379;36.758
+FAC1011;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;8;5.768;46.144
+FAC1012;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;15;33.817;507.255
+FAC1012;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;12;50.825;609.9
+FAC1012;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;12;143.46;1721.52
+FAC1012;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;11;184.64;2031.04
+FAC1012;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;8;39.597;316.776
+FAC1013;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;9;17.494;157.446
+FAC1013;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;4;1.189;4.756
+FAC1013;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;12;31.061;372.732
+FAC1014;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;9;1.2;10.8
+FAC1014;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;11;7.436;81.796
+FAC1015;Café 250g;CAF-250;Boisson;Café moulu 250g;11;9.589;105.479
+FAC1015;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;7;2.825;19.775
+FAC1015;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;14;24.671;345.394
+FAC1015;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;11;18.641;205.051
+FAC1015;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;11;39.609;435.699
+FAC1015;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;7;5.775;40.425
+FAC1016;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;3;37.831;113.493
+FAC1016;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;4;138.315;553.26
+FAC1016;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;2;18.877;37.754
+FAC1017;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;4;8.617;34.468
+FAC1017;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;15;1.257;18.855
+FAC1017;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;7;23.894;167.258
+FAC1017;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;7;2.717;19.019
+FAC1017;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;13;6.858;89.154
+FAC1017;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;5;40.065;200.325
+FAC1018;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;9;189.093;1701.837
+FAC1018;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;6;2.731;16.386
+FAC1018;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;10;8.289;82.89
+FAC1019;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;4;7.112;28.448
+FAC1019;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;15;7.548;113.22
+FAC1019;Café 250g;CAF-250;Boisson;Café moulu 250g;10;10.008;100.08
+FAC1019;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;10;1.228;12.28
+FAC1019;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;11;180.815;1988.965
+FAC1019;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;9;25.052;225.468
+FAC1020;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;5;18.548;92.74
+FAC1020;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;15;50.456;756.84
+FAC1020;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;2;39.95;79.9
+FAC1020;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;10;6.699;66.99
+FAC1021;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;6;40.392;242.352
+FAC1021;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;8;138.395;1107.16
+FAC1021;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;12;52.147;625.764
+FAC1021;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;13;6.881;89.453
+FAC1021;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;1;32.923;32.923
+FAC1021;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;9;1.236;11.124
+FAC1022;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;5;2.855;14.275
+FAC1022;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;4;5.873;23.492
+FAC1022;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;4;1.242;4.968
+FAC1022;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;14;164.068;2296.952
+FAC1023;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;5;6.956;34.78
+FAC1023;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;6;417.832;2506.992
+FAC1024;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;12;7.913;94.956
+FAC1024;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;9;146.138;1315.242
+FAC1024;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;6;8.273;49.638
+FAC1024;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;3;1.227;3.681
+FAC1024;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;1;24.713;24.713
+FAC1025;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;13;37.701;490.113
+FAC1025;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;14;437.747;6128.458
+FAC1025;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;10;2.818;28.18
+FAC1025;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;15;6.121;91.815
+FAC1026;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;14;8.859;124.026
+FAC1026;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;4;7.149;28.596
+FAC1026;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;13;158.048;2054.624
+FAC1026;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;7;33.06;231.42
+FAC1026;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;14;40.367;565.138
+FAC1027;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;11;157.42;1731.62
+FAC1027;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;6;49.27;295.62
+FAC1027;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;2;7.463;14.926
+FAC1027;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;5;25.897;129.485
+FAC1027;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;9;2.804;25.236
+FAC1028;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;5;142.093;710.465
+FAC1028;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;10;6.717;67.17
+FAC1029;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;7;2.727;19.089
+FAC1029;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;15;37.351;560.265
+FAC1029;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;11;192.878;2121.658
+FAC1029;Café 250g;CAF-250;Boisson;Café moulu 250g;12;10.141;121.692
+FAC1029;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;4;51.713;206.852
+FAC1030;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;5;443.92;2219.6
+FAC1030;Café 250g;CAF-250;Boisson;Café moulu 250g;11;9.953;109.483
+FAC1030;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;7;7.551;52.857
+FAC1030;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;9;1.239;11.151
+FAC1031;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;1;32.618;32.618
+FAC1031;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;4;184.51;738.04
+FAC1031;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;10;5.951;59.51
+FAC1031;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;6;51.128;306.768
+FAC1031;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;8;38.956;311.648
+FAC1032;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;10;7.105;71.05
+FAC1032;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;14;49.908;698.712
+FAC1032;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;4;146.74;586.96
+FAC1033;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;8;49.503;396.024
+FAC1033;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;13;8.713;113.269
+FAC1033;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;7;5.762;40.334
+FAC1034;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;13;23.777;309.101
+FAC1034;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;15;2.933;43.995
+FAC1034;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;7;6.759;47.313
+FAC1034;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;13;424.579;5519.527
+FAC1034;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;9;167.938;1511.442
+FAC1035;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;11;6.149;67.639
+FAC1035;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;9;7.023;63.207
+FAC1036;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;13;7.579;98.527
+FAC1036;Café 250g;CAF-250;Boisson;Café moulu 250g;11;9.724;106.964
+FAC1036;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;13;138.299;1797.887
+FAC1036;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;11;18.305;201.355
+FAC1036;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;8;6.842;54.736
+FAC1036;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;5;23.936;119.68
+FAC1037;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;3;6.931;20.793
+FAC1037;Café 250g;CAF-250;Boisson;Café moulu 250g;2;10.129;20.258
+FAC1037;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;6;5.943;35.658
+FAC1037;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;7;2.853;19.971
+FAC1038;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;6;8.61;51.66
+FAC1038;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;7;7.477;52.339
+FAC1038;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;14;25.647;359.058
+FAC1038;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;12;186.427;2237.124
+FAC1038;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;13;39.891;518.583
+FAC1039;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;6;135.193;811.158
+FAC1039;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;13;39.663;515.619
+FAC1039;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;3;18.115;54.345
+FAC1040;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;3;8.908;26.724
+FAC1040;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;7;1.169;8.183
+FAC1040;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;8;428.769;3430.152
+FAC1040;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;13;38.478;500.214
+FAC1040;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;5;7.239;36.195
+FAC1041;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;2;8.417;16.834
+FAC1041;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;11;165.409;1819.499
+FAC1041;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;1;135.334;135.334
+FAC1041;Café 250g;CAF-250;Boisson;Café moulu 250g;4;10.344;41.376
+FAC1041;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;10;33.457;334.57
+FAC1042;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;6;2.781;16.686
+FAC1042;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;10;182.244;1822.44
+FAC1042;Café 250g;CAF-250;Boisson;Café moulu 250g;12;10.356;124.272
+FAC1042;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;14;17.646;247.044
+FAC1042;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;5;156.573;782.865
+FAC1043;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;11;25.288;278.168
+FAC1043;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;12;38.186;458.232
+FAC1043;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;14;165.284;2313.976
+FAC1043;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;13;2.888;37.544
+FAC1043;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;10;1.177;11.77
+FAC1043;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;6;192.481;1154.886
+FAC1044;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;14;448.932;6285.048
+FAC1044;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;7;8.62;60.34
+FAC1045;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;15;32.814;492.21
+FAC1045;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;8;161.931;1295.448
+FAC1045;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;14;140.646;1969.044
+FAC1045;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;5;444.355;2221.775
+FAC1045;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;4;49.85;199.4
+FAC1046;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;6;6.078;36.468
+FAC1046;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;14;179.928;2518.992
+FAC1046;Café 250g;CAF-250;Boisson;Café moulu 250g;8;9.793;78.344
+FAC1047;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;9;145.84;1312.56
+FAC1047;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;4;5.728;22.912
+FAC1047;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;12;180.875;2170.5
+FAC1047;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;9;160.046;1440.414
+FAC1048;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;5;8.774;43.87
+FAC1048;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;6;1.236;7.416
+FAC1048;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;9;50.528;454.752
+FAC1048;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;12;2.803;33.636
+FAC1048;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;6;39.252;235.512
+FAC1049;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;2;137.239;274.478
+FAC1049;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;13;2.903;37.739
+FAC1049;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;4;1.239;4.956
+FAC1049;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;8;157.326;1258.608
+FAC1050;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;1;182.438;182.438
+FAC1050;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;3;2.894;8.682
+FAC1050;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;1;31.83;31.83
+FAC1051;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;8;2.834;22.672
+FAC1051;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;1;7.505;7.505
+FAC1051;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;14;8.438;118.132
+FAC1051;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;14;187.404;2623.656
+FAC1051;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;8;48.696;389.568
+FAC1052;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;13;181.422;2358.486
+FAC1052;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;10;1.209;12.09
+FAC1052;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;4;2.915;11.66
+FAC1053;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;1;188.918;188.918
+FAC1053;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;12;7.687;92.244
+FAC1053;Café 250g;CAF-250;Boisson;Café moulu 250g;13;9.594;124.722
+FAC1053;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;4;38.065;152.26
+FAC1053;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;2;49.592;99.184
+FAC1054;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;1;6.985;6.985
+FAC1054;Café 250g;CAF-250;Boisson;Café moulu 250g;12;9.71;116.52
+FAC1054;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;14;8.461;118.454
+FAC1054;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;11;38.918;428.098
+FAC1054;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;5;17.838;89.19
+FAC1054;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;11;192.567;2118.237
+FAC1055;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;5;17.701;88.505
+FAC1055;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;2;448.046;896.092
+FAC1056;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;5;191.101;955.505
+FAC1056;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;8;18.271;146.168
+FAC1056;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;10;1.211;12.11
+FAC1056;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;7;5.744;40.208
+FAC1056;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;10;164.741;1647.41
+FAC1056;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;2;49.527;99.054
+FAC1057;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;15;1.234;18.51
+FAC1057;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;10;24.378;243.78
+FAC1057;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;14;5.954;83.356
+FAC1057;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;2;6.998;13.996
+FAC1057;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;7;18.221;127.547
+FAC1057;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;11;139.0;1529.0
+FAC1058;Café 250g;CAF-250;Boisson;Café moulu 250g;2;9.538;19.076
+FAC1058;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;6;49.815;298.89
+FAC1058;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;13;420.606;5467.878
+FAC1058;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;9;38.745;348.705
+FAC1058;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;1;145.15;145.15
+FAC1059;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;13;38.599;501.787
+FAC1059;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;8;141.066;1128.528
+FAC1060;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;11;48.948;538.428
+FAC1060;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;4;6.046;24.184
+FAC1060;Café 250g;CAF-250;Boisson;Café moulu 250g;5;10.132;50.66
+FAC1060;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;9;18.352;165.168
+FAC1060;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;4;160.068;640.272
+FAC1060;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;15;25.953;389.295
+FAC1061;Café 250g;CAF-250;Boisson;Café moulu 250g;12;9.763;117.156
+FAC1061;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;14;5.868;82.152
+FAC1061;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;8;161.135;1289.08
+FAC1062;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;14;40.392;565.488
+FAC1062;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;13;5.76;74.88
+FAC1062;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;7;192.604;1348.228
+FAC1062;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;13;139.082;1808.066
+FAC1062;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;14;161.496;2260.944
+FAC1063;Café 250g;CAF-250;Boisson;Café moulu 250g;9;9.81;88.29
+FAC1063;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;7;7.79;54.53
+FAC1063;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;6;6.976;41.856
+FAC1063;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;12;18.869;226.428
+FAC1063;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;7;137.817;964.719
+FAC1063;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;13;24.28;315.64
+FAC1064;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;8;25.928;207.424
+FAC1064;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;3;40.688;122.064
+FAC1064;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;10;435.523;4355.23
+FAC1064;Café 250g;CAF-250;Boisson;Café moulu 250g;2;9.799;19.598
+FAC1064;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;8;7.865;62.92
+FAC1065;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;2;7.93;15.86
+FAC1065;Café 250g;CAF-250;Boisson;Café moulu 250g;5;9.92;49.6
+FAC1065;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;12;429.202;5150.424
+FAC1066;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;2;23.844;47.688
+FAC1066;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;11;31.716;348.876
+FAC1066;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;4;451.687;1806.748
+FAC1066;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;7;164.916;1154.412
+FAC1066;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;13;19.045;247.585
+FAC1066;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;14;142.758;1998.612
+FAC1067;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;6;8.288;49.728
+FAC1067;Café 250g;CAF-250;Boisson;Café moulu 250g;3;9.837;29.511
+FAC1067;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;7;31.743;222.201
+FAC1067;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;13;25.013;325.169
+FAC1068;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;8;25.271;202.168
+FAC1068;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;3;194.649;583.947
+FAC1069;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;11;146.104;1607.144
+FAC1069;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;2;437.234;874.468
+FAC1069;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;6;8.583;51.498
+FAC1069;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;5;25.943;129.715
+FAC1069;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;7;18.495;129.465
+FAC1070;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;7;37.715;264.005
+FAC1070;Café 250g;CAF-250;Boisson;Café moulu 250g;10;10.01;100.1
+FAC1070;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;12;7.475;89.7
+FAC1070;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;14;17.938;251.132
+FAC1071;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;8;1.229;9.832
+FAC1071;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;15;6.165;92.475
+FAC1072;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;12;39.693;476.316
+FAC1072;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;11;192.228;2114.508
+FAC1072;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;11;52.168;573.848
+FAC1073;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;5;1.174;5.87
+FAC1073;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;7;184.89;1294.23
+FAC1073;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;3;31.546;94.638
+FAC1073;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;15;165.485;2482.275
+FAC1073;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;9;7.296;65.664
+FAC1074;Café 250g;CAF-250;Boisson;Café moulu 250g;13;10.274;133.562
+FAC1074;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;2;24.019;48.038
+FAC1074;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;4;49.035;196.14
+FAC1074;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;12;166.539;1998.468
+FAC1075;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;2;24.348;48.696
+FAC1075;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;11;8.593;94.523
+FAC1076;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;15;2.722;40.83
+FAC1076;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;6;452.546;2715.276
+FAC1076;Café 250g;CAF-250;Boisson;Café moulu 250g;4;10.313;41.252
+FAC1076;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;11;18.509;203.599
+FAC1077;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;5;52.653;263.265
+FAC1077;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;2;9.007;18.014
+FAC1078;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;7;6.225;43.575
+FAC1078;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;12;32.732;392.784
+FAC1078;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;7;422.096;2954.672
+FAC1078;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;14;163.602;2290.428
+FAC1078;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;7;24.844;173.908
+FAC1079;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;2;6.177;12.354
+FAC1079;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;6;19.049;114.294
+FAC1079;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;11;2.853;31.383
+FAC1080;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;4;37.663;150.652
+FAC1080;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;10;1.233;12.33
+FAC1080;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;1;7.93;7.93
+FAC1080;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;4;18.735;74.94
+FAC1081;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;10;40.078;400.78
+FAC1081;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;14;179.497;2512.958
+FAC1081;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;3;2.964;8.892
+FAC1081;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;13;7.64;99.32
+FAC1081;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;11;31.543;346.973
+FAC1081;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;3;7.231;21.693
+FAC1082;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;9;444.768;4002.912
+FAC1082;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;2;8.332;16.664
+FAC1082;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;13;6.989;90.857
+FAC1082;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;10;50.029;500.29
+FAC1082;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;9;5.781;52.029
+FAC1082;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;10;7.425;74.25
+FAC1083;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;7;1.256;8.792
+FAC1083;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;8;18.571;148.568
+FAC1084;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;10;51.207;512.07
+FAC1084;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;6;1.223;7.338
+FAC1084;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;10;6.93;69.3
+FAC1084;Café 250g;CAF-250;Boisson;Café moulu 250g;8;9.974;79.792
+FAC1085;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;4;38.91;155.64
+FAC1085;Café 250g;CAF-250;Boisson;Café moulu 250g;14;9.871;138.194
+FAC1086;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;5;428.197;2140.985
+FAC1086;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;3;38.642;115.926
+FAC1087;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;12;6.961;83.532
+FAC1087;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;13;1.244;16.172
+FAC1088;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;13;7.865;102.245
+FAC1088;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;15;32.258;483.87
+FAC1089;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;8;2.755;22.04
+FAC1089;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;2;183.184;366.368
+FAC1089;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;9;139.21;1252.89
+FAC1089;Café 250g;CAF-250;Boisson;Café moulu 250g;13;9.83;127.79
+FAC1090;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;12;8.383;100.596
+FAC1090;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;15;192.144;2882.16
+FAC1090;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;1;429.251;429.251
+FAC1090;Onduleur 650VA;OND-650VA;Électricité;Onduleur 650 VA;3;156.826;470.478
+FAC1090;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;7;50.946;356.622
+FAC1090;Café 250g;CAF-250;Boisson;Café moulu 250g;12;9.567;114.804
+FAC1091;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;12;38.627;463.524
+FAC1091;Café 250g;CAF-250;Boisson;Café moulu 250g;10;9.792;97.92
+FAC1091;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;15;6.04;90.6
+FAC1091;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;3;17.545;52.635
+FAC1091;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;1;33.213;33.213
+FAC1091;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;5;7.112;35.56
+FAC1092;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;2;5.906;11.812
+FAC1092;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;11;38.326;421.586
+FAC1092;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;9;51.067;459.603
+FAC1092;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;1;2.884;2.884
+FAC1092;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;10;137.589;1375.89
+FAC1092;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;4;1.17;4.68
+FAC1093;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;7;187.731;1314.117
+FAC1093;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;7;31.546;220.822
+FAC1093;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;4;1.222;4.888
+FAC1093;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;14;8.628;120.792
+FAC1094;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;10;1.257;12.57
+FAC1094;Clavier Logitech;LOG-K120;Informatique;Clavier USB AZERTY;7;38.832;271.824
+FAC1094;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;7;8.788;61.516
+FAC1094;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;7;17.929;125.503
+FAC1094;Café 250g;CAF-250;Boisson;Café moulu 250g;6;9.524;57.144
+FAC1095;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;7;7.346;51.422
+FAC1095;Café 250g;CAF-250;Boisson;Café moulu 250g;9;10.025;90.225
+FAC1096;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;11;17.584;193.424
+FAC1096;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;9;31.368;282.312
+FAC1096;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;13;24.193;314.509
+FAC1096;Classeur A4;CLA-A4-02;Papeterie;Classeur rigide A4;12;6.91;82.92
+FAC1097;Cartouche HP 305;HP305-BLK;Informatique;Cartouche noire;10;49.289;492.89
+FAC1097;Café 250g;CAF-250;Boisson;Café moulu 250g;13;9.641;125.333
+FAC1098;Eau minérale 1.5L;EAU-15L;Boisson;Pack de 6 bouteilles;15;5.961;89.415
+FAC1098;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;11;25.71;282.81
+FAC1098;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;10;190.028;1900.28
+FAC1098;Café 250g;CAF-250;Boisson;Café moulu 250g;11;9.791;107.701
+FAC1098;Gobelets jetables;GOB-100;Consommable;Pack de 100 gobelets;8;7.488;59.904
+FAC1099;SSD Kingston 500GB;SSD-K500;Informatique;SSD SATA 500 Go;5;141.177;705.885
+FAC1099;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;1;187.138;187.138
+FAC1099;Ramette papier A4;PAP-A4-80;Papeterie;Ramette 500 feuilles;14;8.289;116.046
+FAC1099;Souris Logitech;LOG-M185;Informatique;Souris sans fil USB;11;31.867;350.537
+FAC1100;Stylo bille bleu;STY-BLEU-01;Papeterie;Stylo bille pointe 0.7mm;8;1.199;9.592
+FAC1100;Câble HDMI 2m;HDMI-2M-01;Informatique;Câble HDMI haute vitesse;1;18.272;18.272
+FAC1100;Multiprise 6 prises;MULT-6P;Électricité;Multiprise avec interrupteur;13;24.758;321.854
+FAC1100;Disque dur externe 1TB;HDD-1TB-EXT;Informatique;Disque dur USB 3.0;6;194.42;1166.52
+FAC1100;Écran 24 pouces;MON-24-FHD;Informatique;Écran Full HD 24 pouces;2;454.06;908.12
+FAC1100;Agrafes 24/6;AGR-246-01;Papeterie;Boîte de 1000 agrafes;3;2.843;8.529

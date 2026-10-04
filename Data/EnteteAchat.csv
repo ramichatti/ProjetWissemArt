@@ -1,0 +1,101 @@
+﻿num_facture;date_achat;nom_fournisseur;matricule_fiscal;adresse_fournisseur;mode_paiement;total_achat
+FAC1001;2026-09-20;Tunisie Fournitures;MF1007832;Ariana;Especes;843.078
+FAC1002;2026-07-30;Sotufab;MF1002458;Tunis;Cheque;1743.181
+FAC1003;2026-08-14;Electro Services;MF1020147;Tunis;Especes;2131.362
+FAC1004;2026-08-07;Tunisie Fournitures;MF1007832;Ariana;Cheque;646.956
+FAC1005;2026-08-15;Office Plus;MF1005621;La Marsa;Virement;802.485
+FAC1006;2026-09-20;Office Plus;MF1005621;La Marsa;Virement;120.164
+FAC1007;2026-07-28;Global Informatique;MF1018453;Le Bardo;Cheque;4624.511
+FAC1008;2026-07-18;Maghreb Supply;MF1023567;Sfax;Especes;108.522
+FAC1009;2026-07-09;Pro Bureau;MF1009345;Ariana;Carte bancaire;7622.178
+FAC1010;2026-08-03;Tech Distribution;MF1011256;Ben Arous;Especes;837.691
+FAC1011;2026-08-16;Electro Services;MF1020147;Tunis;Cheque;82.902
+FAC1012;2026-07-09;Tech Distribution;MF1011256;Ben Arous;Cheque;5186.491
+FAC1013;2026-09-05;Maghreb Supply;MF1023567;Sfax;Especes;534.934
+FAC1014;2026-09-19;Sotufab;MF1002458;Tunis;Cheque;92.596
+FAC1015;2026-09-01;Office Plus;MF1005621;La Marsa;Cheque;1151.823
+FAC1016;2026-08-13;Tunisie Fournitures;MF1007832;Ariana;Cheque;704.507
+FAC1017;2026-08-26;Tunisie Fournitures;MF1007832;Ariana;Especes;529.079
+FAC1018;2026-08-24;Maghreb Supply;MF1023567;Sfax;Cheque;1801.113
+FAC1019;2026-08-31;Tech Distribution;MF1011256;Ben Arous;Especes;2468.461
+FAC1020;2026-08-10;Electro Services;MF1020147;Tunis;Cheque;996.47
+FAC1021;2026-09-11;Tunisie Fournitures;MF1007832;Ariana;Especes;2108.776
+FAC1022;2026-08-08;Tunisie Fournitures;MF1007832;Ariana;Cheque;2339.687
+FAC1023;2026-08-03;Maghreb Supply;MF1023567;Sfax;Virement;2541.772
+FAC1024;2026-07-17;Electro Services;MF1020147;Tunis;Cheque;1488.23
+FAC1025;2026-08-09;Global Informatique;MF1018453;Le Bardo;Especes;6738.566
+FAC1026;2026-07-31;Tech Distribution;MF1011256;Ben Arous;Cheque;3003.804
+FAC1027;2026-08-30;Office Plus;MF1005621;La Marsa;Cheque;2196.887
+FAC1028;2026-08-21;Global Informatique;MF1018453;Le Bardo;Especes;777.635
+FAC1029;2026-08-25;Global Informatique;MF1018453;Le Bardo;Virement;3029.556
+FAC1030;2026-08-16;Pro Bureau;MF1009345;Ariana;Especes;2393.091
+FAC1031;2026-07-17;Office Plus;MF1005621;La Marsa;Carte bancaire;1448.584
+FAC1032;2026-09-25;Office Plus;MF1005621;La Marsa;Carte bancaire;1356.722
+FAC1033;2026-09-25;Electro Services;MF1020147;Tunis;Cheque;549.627
+FAC1034;2026-09-19;Office Plus;MF1005621;La Marsa;Carte bancaire;7431.378
+FAC1035;2026-08-29;Sotufab;MF1002458;Tunis;Cheque;130.846
+FAC1036;2026-09-15;Global Informatique;MF1018453;Le Bardo;Carte bancaire;2379.149
+FAC1037;2026-07-31;Electro Services;MF1020147;Tunis;Virement;96.68
+FAC1038;2026-07-08;Office Plus;MF1005621;La Marsa;Carte bancaire;3218.764
+FAC1039;2026-09-16;Office Plus;MF1005621;La Marsa;Carte bancaire;1381.122
+FAC1040;2026-08-29;Tech Distribution;MF1011256;Ben Arous;Especes;4001.468
+FAC1041;2026-08-23;Electro Services;MF1020147;Tunis;Especes;2347.613
+FAC1042;2026-07-20;Office Plus;MF1005621;La Marsa;Cheque;2993.307
+FAC1043;2026-07-14;Sotufab;MF1002458;Tunis;Virement;4254.576
+FAC1044;2026-09-07;Pro Bureau;MF1009345;Ariana;Virement;6345.388
+FAC1045;2026-08-16;Maghreb Supply;MF1023567;Sfax;Cheque;6177.877
+FAC1046;2026-07-12;Electro Services;MF1020147;Tunis;Carte bancaire;2633.804
+FAC1047;2026-07-28;Global Informatique;MF1018453;Le Bardo;Virement;4946.386
+FAC1048;2026-07-31;Maghreb Supply;MF1023567;Sfax;Carte bancaire;775.186
+FAC1049;2026-09-28;Maghreb Supply;MF1023567;Sfax;Virement;1575.781
+FAC1050;2026-08-05;Electro Services;MF1020147;Tunis;Especes;222.95
+FAC1051;2026-09-09;Electro Services;MF1020147;Tunis;Cheque;3161.533
+FAC1052;2026-07-10;Sotufab;MF1002458;Tunis;Cheque;2382.236
+FAC1053;2026-09-05;Pro Bureau;MF1009345;Ariana;Carte bancaire;657.328
+FAC1054;2026-07-21;Office Plus;MF1005621;La Marsa;Cheque;2877.484
+FAC1055;2026-09-14;Office Plus;MF1005621;La Marsa;Carte bancaire;984.597
+FAC1056;2026-07-08;Tech Distribution;MF1011256;Ben Arous;Virement;2900.455
+FAC1057;2026-07-30;Sotufab;MF1002458;Tunis;Virement;2016.189
+FAC1058;2026-07-14;Tech Distribution;MF1011256;Ben Arous;Virement;6279.699
+FAC1059;2026-09-23;Maghreb Supply;MF1023567;Sfax;Carte bancaire;1630.315
+FAC1060;2026-07-07;Office Plus;MF1005621;La Marsa;Virement;1808.007
+FAC1061;2026-07-15;Maghreb Supply;MF1023567;Sfax;Especes;1488.388
+FAC1062;2026-08-01;Maghreb Supply;MF1023567;Sfax;Cheque;6057.606
+FAC1063;2026-07-01;Electro Services;MF1020147;Tunis;Virement;1691.463
+FAC1064;2026-08-22;Sotufab;MF1002458;Tunis;Virement;4767.236
+FAC1065;2026-07-13;Maghreb Supply;MF1023567;Sfax;Especes;5215.884
+FAC1066;2026-08-20;Tunisie Fournitures;MF1007832;Ariana;Virement;5603.921
+FAC1067;2026-07-13;Maghreb Supply;MF1023567;Sfax;Cheque;626.609
+FAC1068;2026-07-24;Tech Distribution;MF1011256;Ben Arous;Cheque;786.115
+FAC1069;2026-07-30;Maghreb Supply;MF1023567;Sfax;Virement;2792.29
+FAC1070;2026-09-27;Electro Services;MF1020147;Tunis;Carte bancaire;704.937
+FAC1071;2026-09-23;Pro Bureau;MF1009345;Ariana;Virement;102.307
+FAC1072;2026-08-06;Office Plus;MF1005621;La Marsa;Virement;3164.672
+FAC1073;2026-07-13;Sotufab;MF1002458;Tunis;Virement;3942.677
+FAC1074;2026-09-03;Electro Services;MF1020147;Tunis;Cheque;2376.208
+FAC1075;2026-09-25;Pro Bureau;MF1009345;Ariana;Virement;143.219
+FAC1076;2026-09-25;Electro Services;MF1020147;Tunis;Carte bancaire;3000.957
+FAC1077;2026-08-29;Electro Services;MF1020147;Tunis;Carte bancaire;281.279
+FAC1078;2026-07-13;Office Plus;MF1005621;La Marsa;Cheque;5855.367
+FAC1079;2026-08-05;Sotufab;MF1002458;Tunis;Virement;158.031
+FAC1080;2026-08-15;Sotufab;MF1002458;Tunis;Carte bancaire;245.852
+FAC1081;2026-07-17;Office Plus;MF1005621;La Marsa;Especes;3390.616
+FAC1082;2026-07-02;Global Informatique;MF1018453;Le Bardo;Cheque;4737.002
+FAC1083;2026-07-06;Electro Services;MF1020147;Tunis;Carte bancaire;157.36
+FAC1084;2026-08-26;Tunisie Fournitures;MF1007832;Ariana;Especes;668.5
+FAC1085;2026-09-03;Pro Bureau;MF1009345;Ariana;Especes;293.834
+FAC1086;2026-08-28;Pro Bureau;MF1009345;Ariana;Carte bancaire;2256.911
+FAC1087;2026-09-26;Maghreb Supply;MF1023567;Sfax;Especes;99.704
+FAC1088;2026-07-17;Sotufab;MF1002458;Tunis;Virement;586.115
+FAC1089;2026-07-07;Electro Services;MF1020147;Tunis;Virement;1769.088
+FAC1090;2026-08-05;Office Plus;MF1005621;La Marsa;Carte bancaire;4353.911
+FAC1091;2026-09-20;Sotufab;MF1002458;Tunis;Especes;773.452
+FAC1092;2026-08-26;Pro Bureau;MF1009345;Ariana;Carte bancaire;2276.455
+FAC1093;2026-08-08;Office Plus;MF1005621;La Marsa;Cheque;1660.619
+FAC1094;2026-09-24;Global Informatique;MF1018453;Le Bardo;Especes;528.557
+FAC1095;2026-07-22;Maghreb Supply;MF1023567;Sfax;Virement;141.647
+FAC1096;2026-07-11;Pro Bureau;MF1009345;Ariana;Virement;873.165
+FAC1097;2026-09-21;Tech Distribution;MF1011256;Ben Arous;Cheque;618.223
+FAC1098;2026-09-22;Tunisie Fournitures;MF1007832;Ariana;Cheque;2440.11
+FAC1099;2026-07-09;Maghreb Supply;MF1023567;Sfax;Carte bancaire;1359.606
+FAC1100;2026-07-12;Pro Bureau;MF1009345;Ariana;Carte bancaire;2432.887
